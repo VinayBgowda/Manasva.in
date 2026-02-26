@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Manasva - Student Counselling & Wellbeing</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+background-color: #f4f7f6;
+color: #333;
+}
+
+header {
+background-color: #1f3d3d;
+color: white;
+padding: 60px 20px;
+text-align: center;
+}
+
+header h1 {
+margin: 0;
+font-size: 40px;
+}
+
+header p {
+margin-top: 10px;
+font-size: 18px;
+}
+
+section {
+padding: 50px 20px;
+max-width: 900px;
+margin: auto;
+}
+
+h2 {
+color: #1f3d3d;
+margin-bottom: 20px;
+}
+
+ul {
+line-height: 1.8;
+}
+
+footer {
+background-color: #1f3d3d;
+color: white;
+text-align: center;
+padding: 20px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Manasva</h1>
+<p>Inner Peace. Strong Mind. Student Wellbeing.</p>
+</header>
+
+<section>
+<h2>About Manasva</h2>
+<p>Manasva is dedicated to strengthening student mental wellbeing through structured counselling, emotional support, teacher training, and parent guidance. We partner with schools and colleges to build resilient and balanced young minds.</p>
+</section>
+
+<section>
+<h2>Our Services</h2>
+<ul>
+<li>Student Counselling & Early Identification</li>
+<li>Behavioural and Emotional Support</li>
+<li>Teacher Wellbeing Workshops</li>
+<li>Parenting Guidance Programs</li>
+<li>Life Skills & Mental Health Modules</li>
+</ul>
+</section>
+
+<section>
+<h2>Contact</h2>
+<p>Email: hello@manasva.in</p>
+</section>
+
+<footer>
+<p>© 2026 Manasva. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
